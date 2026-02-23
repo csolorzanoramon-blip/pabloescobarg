@@ -5,8 +5,8 @@
     "size": 12345,
     "md5": "hash_md5_del_archivo",
     "changelog": [
-        "✓ Corrección de errores",
-        "✓ Mejora en detección de LIVE",
-        "✓ Nuevo sistema de rotación de IP"
+        "✓ Versión inicial",
+        "✓ Sistema de actualizaciones implementado",
+        "✓ Detección de LIVE/CCN mejorada"
     ]
 }
