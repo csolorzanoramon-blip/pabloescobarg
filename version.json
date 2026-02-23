@@ -1,0 +1,12 @@
+{
+    "version": "1.0.1",
+    "file_id": "ID_DEL_ARCHIVO_EN_MEGA",
+    "file_key": "KEY_DEL_ARCHIVO_EN_MEGA",
+    "size": 12345,
+    "md5": "hash_md5_del_archivo",
+    "changelog": [
+        "✓ Corrección de errores",
+        "✓ Mejora en detección de LIVE",
+        "✓ Nuevo sistema de rotación de IP"
+    ]
+}
